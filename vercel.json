@@ -23,5 +23,11 @@
 				}
 			]
 		}
-	]
+	],
+	"redirects": [
+		{
+			"source": "/",
+			"destination": "https://www.tcgdex.net?ref=api.tcgdex.net"
+		}
+	],
 }
